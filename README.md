@@ -48,14 +48,15 @@ To get a local copy up and running, follow these simple steps.
 
 To use the Commit Message Generator, run the following command:
 
-sh
+```sh
 node index.js
+```
 
 
 You will be prompted to select a mode (Fun or Serious), choose the type of commit, and provide details about the changes. The tool will then generate a commit message based on your inputs.
 
 ### Example
-sh
+```sh
 ? Choose a mode for the commit message: (Use arrow keys)
 ❯ Fun Mode
 Serious Mode
@@ -69,6 +70,7 @@ Other
 Generated Commit Message:
 "Feature: Enhanced UX with new feature"
 ? Do you want to use this commit message? (Y/n)
+```
 
 
 ## Contributing
