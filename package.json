@@ -1,0 +1,22 @@
+{
+  "name": "commit-msg-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "commit-msg-gen": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rayen ben rhim",
+  "license": "ISC",
+  "description": "A CLI tool to generate witty or serious git commit messages using AI",
+  "dependencies": {
+    "@google/generative-ai": "^0.19.0",
+    "inquirer": "^10.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  }
+}
