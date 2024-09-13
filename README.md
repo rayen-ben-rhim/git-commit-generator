@@ -1,6 +1,3 @@
-# Commit Message Generator
-
-![Commit Message Generator](https://via.placeholder.com/150)
 
 ## Table of Contents
 
